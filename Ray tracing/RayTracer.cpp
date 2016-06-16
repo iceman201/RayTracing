@@ -270,7 +270,7 @@ void display()
 		    Vector dir(xc, yc, -EDIST);	//direction of the primary ray
 			Color col_ss = Average_Pixel(eye,dir,pixelSize,x1,y1); //Calling Super Sampling function
             dir.normalise();			//Normalise this direction
-		    Color col = col_ss;//trace (eye, dir, 1);  //For the Super Sampling. If want turn off anti-aliasing
+		    Color col = col_ss;  //For the Super Sampling. If want turn off anti-aliasing
 								// replace it to "trace (eye, dir, 1);" 
 			glColor3f(col.r, col.g, col.b);
 			glVertex2f(x1, y1);				//Draw each pixel with its color value
