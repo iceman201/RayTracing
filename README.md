@@ -16,15 +16,22 @@
 ![image](https://cloud.githubusercontent.com/assets/5027957/16549701/ec516970-41f5-11e6-9414-af435692d923.png)
 
 5. Textured Plane:
+![image](https://cloud.githubusercontent.com/assets/5027957/16549719/23b22a3a-41f6-11e6-8be4-7fd8a9d7d65b.png)
 
 6. Cyclinder:
+![image](https://cloud.githubusercontent.com/assets/5027957/16549722/2efca4d8-41f6-11e6-949d-96670fd50953.png)
 
 7. Cone:
+![image](https://cloud.githubusercontent.com/assets/5027957/16549727/3ac0201a-41f6-11e6-9cb8-2d3118725ed0.png)
 
 8. Tetrahedron:
+![image](https://cloud.githubusercontent.com/assets/5027957/16549729/48baeca4-41f6-11e6-8e96-9d9615a2ef21.png)
 
 9. Refractions:
+![image](https://cloud.githubusercontent.com/assets/5027957/16549735/53687194-41f6-11e6-8896-139e44ecb6cc.png)
 
 10. Textured sphere:
+![image](https://cloud.githubusercontent.com/assets/5027957/16549739/5f7f7d74-41f6-11e6-98d8-b2659df4be3e.png)
 
 11. Anti-aliasing(Super Sampling):
+![file-page5](https://cloud.githubusercontent.com/assets/5027957/16549865/adcfab38-41f7-11e6-90e7-850391dccad5.jpg)
