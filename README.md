@@ -10,12 +10,21 @@
 ![image](https://cloud.githubusercontent.com/assets/5027957/16549677/b91a6638-41f5-11e6-8a82-133bd7796ad5.png)
 
 3. Reflections:
+![image](https://cloud.githubusercontent.com/assets/5027957/16549696/dd9bedec-41f5-11e6-9066-86273a9efa74.png)
 
 4. Box(Cube):
-5. Textured Plane
+![image](https://cloud.githubusercontent.com/assets/5027957/16549701/ec516970-41f5-11e6-9414-af435692d923.png)
+
+5. Textured Plane:
+
 6. Cyclinder:
+
 7. Cone:
+
 8. Tetrahedron:
+
 9. Refractions:
+
 10. Textured sphere:
+
 11. Anti-aliasing(Super Sampling):
