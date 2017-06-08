@@ -1,4 +1,4 @@
-##Ray Tracing Project
+### Ray Tracing Project
 * The significant of this ray tracing project is that it had been done 5 basic features and 7 extension features, what is more the ray of object/components gets prefect reflection and refraction without any execution errors. However, there could be some more improvements such as Camera motion, constructive solid geometry, and bounding volumes. The estimate of the time taken by the program to run on lab computer is 35 seconds, and 2 min 15 seconds for run on my own laptop which is the worst case.
 * *The features which achieved are listed below:*
 ![image](https://cloud.githubusercontent.com/assets/5027957/16549661/8dc24ee2-41f5-11e6-9ac3-22ee1e0f962f.png)
